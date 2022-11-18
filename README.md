@@ -2,9 +2,7 @@ PROJECT TITLE :
                 TRAVEL-WORLD 
 
 PROJECT DISCRIPTION :
-              the travel-blog-site is tells about the best places to visit all around the world. with the additional information of the places were you wanted to visit.
-              
-              i have used many images from the pintrest to look website good and these images indicates the places of how does it look like .
+              the travel-blog-site is tells about the best places to visit all around the world. with the additional information of the places were you wanted to visit.i have used many images from the pintrest to look website good and these images indicates the places of how does it look like .
           
 TOOLS USED :
               1. HTML 5
